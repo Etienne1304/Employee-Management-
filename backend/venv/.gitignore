@@ -1,0 +1,18 @@
+
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Secrets and environment files
+.env
+.env.*
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
